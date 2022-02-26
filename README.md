@@ -3,9 +3,9 @@
 🏗 Software Engineer at iFood
 
 
-🌍 [My site](http://marcelosousa.tech/) 
-💻 [LinkedIn](https://www.linkedin.com/in/mnsmarcelo/) 
-📄 [Resume](https://marcelosousa.tech/resume/resume-pt.pdf) 
+🌍 [My site](http://marcelosousa.tech/) </br>
+💻 [LinkedIn](https://www.linkedin.com/in/mnsmarcelo/) </br>
+📄 [Resume](https://marcelosousa.tech/resume/resume-pt.pdf) </br>
 
 <!--
 **mnsmarcelo/mnsmarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
