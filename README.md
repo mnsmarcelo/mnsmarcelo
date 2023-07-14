@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🏗 Software Engineer at iFood
+🏗 Software Engineer
 
 
 🌍 [My site](http://marcelosousa.tech/) </br>
