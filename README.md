@@ -5,7 +5,7 @@
 
 🌍 [My site](http://marcelosousa.tech/) </br>
 💻 [LinkedIn](https://www.linkedin.com/in/mnsmarcelo/) </br>
-📄 [Resume](https://marcelosousa.tech/cv/marcelo-sousa.resume.pdf) </br>
+📄 [Resume](https://mnsmarcelo-public.s3.us-east-2.amazonaws.com/marcelo-sousa.resume.pdf) </br>
 
 <!--
 **mnsmarcelo/mnsmarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
