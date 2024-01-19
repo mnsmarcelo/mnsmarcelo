@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🏗 Software Engineer
-
+- 🔭 I’m currently working on Banco do Nordeste 
 
 🌍 [My site](http://marcelosousa.tech/) </br>
 💻 [LinkedIn](https://www.linkedin.com/in/mnsmarcelo/) </br>
