@@ -3,7 +3,6 @@
 🏗 Software Engineer
 - 🔭 I’m currently working at the Banco do Nordeste 
 
-🌍 [My site](http://marcelosousa.tech/) </br>
 💻 [LinkedIn](https://www.linkedin.com/in/mnsmarcelo/) </br>
 📄 [Resume](https://mnsmarcelo-public.s3.us-east-2.amazonaws.com/marcelo-sousa.resume.pdf) </br>
 
