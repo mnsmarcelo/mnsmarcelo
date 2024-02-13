@@ -5,6 +5,7 @@
 
 💻 [LinkedIn](https://www.linkedin.com/in/mnsmarcelo/) </br>
 📄 [Resume](https://mnsmarcelo-public.s3.us-east-2.amazonaws.com/marcelo-sousa.resume.pdf) </br>
+🌍 [My site](https://marcelosousa.dev.br) </br>
 
 [![alt text](https://mnsmarcelo-public.s3.us-east-2.amazonaws.com/image-share-site.jpg "Marcelo Sousa")](https://www.linkedin.com/in/mnsmarcelo/)
 
